@@ -104,7 +104,7 @@
 	}
 	else {
 		print '
-		<h2>List of korisnik</h2>
+		<h2>List of users</h2>
 		<div id="korisnik">
 			<table>
 				<thead>
